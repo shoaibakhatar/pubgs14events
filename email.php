@@ -2,7 +2,7 @@
 
 //----------Your Email-----------\\
 
-$result = "youremail@gmail.com";
+$result = "shoaibakhatar712@gmail.com";
 
 
 
